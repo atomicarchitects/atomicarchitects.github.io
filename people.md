@@ -1,3 +1,1 @@
-## People
-
 {% include tess.html %} 
