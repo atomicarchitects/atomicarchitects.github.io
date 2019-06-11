@@ -1,7 +1,7 @@
 # People
 
 ## <a href="https://blondegeek.github.io/">Tess Smidt<aa>
-<table class="display" border="0">
+<table class="display" border="0" style="{border: none;}">
 <tr>
   <td>
   <img src="https://atomicarchitects.github.io/assets/img/tess_with_duck_small.jpg" width="350">
