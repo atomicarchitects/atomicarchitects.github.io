@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
 title: Atomic Architects
-description: <a href="./index.html" style="color:white">home</a> | <a href="./research.html" style="color:white">research</a> |  <a href="./people.html" style="color:white">people</a> <br> The Atomic Architects Research Group designs algorithms to understand and generate atomic structures for applications in materials science, chemistry, and biology. 
+description: <a href="./index.html" style="color:white">research</a> |  <a href="./people.html" style="color:white">people</a> <br> The Atomic Architects Research Group designs algorithms to understand and generate atomic structures for applications in materials science, chemistry, and biology. 
 markdown: kramdown
