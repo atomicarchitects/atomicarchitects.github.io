@@ -19,6 +19,7 @@ Tess is a physicist obsessed with the geometry of atomic systems. She will use a
   <img src="https://atomicarchitects.github.io/assets/img/hashim_with_duck_small.jpg" width="350">
   </td>
   <td style="text-align:left">
+  ...
   </td>
 </tr>
 </table>
@@ -30,6 +31,7 @@ Tess is a physicist obsessed with the geometry of atomic systems. She will use a
   <img src="https://atomicarchitects.github.io/assets/img/mario_with_duck_small.jpg" width="350">
   </td>
   <td style="text-align:left">
+  ...
   </td>
 </tr>
 </table>
@@ -41,6 +43,7 @@ Tess is a physicist obsessed with the geometry of atomic systems. She will use a
   <img src="https://atomicarchitects.github.io/assets/img/ben_with_duck_small.jpg" width="350">
   </td>
   <td style="text-align:left">
+  ...
   </td>
 </tr>
 </table>
