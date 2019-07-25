@@ -24,4 +24,5 @@ Tess is a physicist obsessed with the geometry of atomic systems. She will use a
 
 ## Mario Geiger
 
-## Ben Miller
+## <a href="http://mathben.com/">Ben Miller</a>
+Ben relied on physical intuition to get through his undergrad and enjoys learning how to make that physical intuition mathematically precise. He is studying the intersection of statistics, physics, and chemistry at the Freie Universität in Berlin. Specifically, he spends his time creating neural network models which learn using geometry. These days, Ben lies awake thinking about the broad landscape of neural network applications and how they manage to learn at all.
