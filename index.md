@@ -1,1 +1,66 @@
-## Hello world!
+The Atomic Architects Research Group designs algorithms to understand and generate atomic structures for applications in materials science, chemistry, and biology. We are based at Lawrence Berkeley National Laboratory in the Computational Research Division.
+
+# Research {#research}
+
+## Accelerating existing techniques and creating new capabilities for computational chemistry and material science
+
+The "holy grail" of computational chemistry and materials discovery is to create an algorithm such that given a list of desirable properties, the algorithm would return an arrangement of atoms with those properties. We're helping get us there by
+* generating better starting points for expensive quantum mechanical calculations so they can converge faster,
+* creating surrogate models to emulate these calculations altogether, and
+* designing algorithms to propose new hypothetical atomic structures that we can then study with existing methods. 
+
+## Neural Networks from first-principles for rich datatypes 
+
+To solve the most challenging problems in computational chemistry and material science and beyond, we need the right tools. Deep learning shows promise for helping solve these challenges, but much work is needed to adapt these techniques.
+
+We create new neural networks from first-princples that can naturally handle the rich datatypes present in the physical sciences such as geometry and geometric tensors (scalars, vectors, matrices), which transform predicably under 3D rotations and translation.
+
+# People {#people}
+
+<table>
+<tr>
+  <td width="150">
+  <img src="https://atomicarchitects.github.io/assets/img/tess_with_duck_small.jpg" width="150"/>
+  </td>
+  <td width="150">
+  <img src="https://atomicarchitects.github.io/assets/img/hashim_with_duck_small.jpg" width="150"/>
+  </td>
+  <td width="150">
+  <img src="https://atomicarchitects.github.io/assets/img/mario_with_duck_small.jpg" width="150"/>
+  </td>
+  <td width="150">
+  <img src="https://atomicarchitects.github.io/assets/img/ben_with_duck_small.jpg" width="150"/>
+  </td>
+</tr>
+</table>
+
+## <a href="https://blondegeek.github.io/">Tess Smidt</a>
+Tess is a physicist obsessed with the geometry of atomic systems. She will use any and all tools to understand it -- from first-principle calculations and neural networks to <a href="https://en.wikipedia.org/wiki/Dice#Applications">D&D dice</a> and parameteric computer models. Tess is the 2018 Alvarez Postdoctoral Fellow in Computing Sciences at Lawrence Berkeley Lab and heads the Atomic Architects.
+
+## <a href="https://www.linkedin.com/in/hashim-piracha-65118116b/">Hashim Piracha</a>
+Joining the team as an undergraduate from UC Berkley, Hashim can often be spotted calculating tensor products of spherical harmonic signals, clustering atomic datasets, and jamming to Pakistani music. Whilst sipping cups of chai, he applies dimensionality reduction techniques such as t-SNE and PCA to visualize high dimensional data. Note: It is said that the more chai he drinks, the more efficient he becomes.
+
+## <a href="https://mariogeiger.ch/">Mario Geiger</a>
+Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the <a href="https://en.wikipedia.org/wiki/Benevolent_dictator_for_life">BDFL</a> of <a href="https://github.com/mariogeiger/se3cnn">se3cnn</a>, a framework for neural networks with Euclidean symmetry.
+
+## <a href="http://mathben.com/">Ben Miller</a>
+Ben relied on physical intuition to get through his undergrad and enjoys learning how to make that physical intuition mathematically precise. He is studying the intersection of statistics, physics, and chemistry at the Freie Universität in Berlin. Specifically, he spends his time creating neural network models which learn using geometry. These days, Ben lies awake thinking about the broad landscape of neural network applications and how they manage to learn at all.
+
+# ...
+
+## What's with the rubber ducks?
+When someone joins the Atomic Architects, they get a <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging">debugger duck</a>.
+
+## Definitions
+
+> <b>a&#183;tom&#183;ic</b> <i>adjective</i><br>
+> &#183; relating to an atom or atoms. <br>
+> &#183; of or forming a single irreducible unit or component in a larger system. <br>
+>
+> <b>ar&#183;chi&#183;tect</b> <i>noun</i><br>
+> &#183; A person who designs buildings and in many cases also supervises their construction. <br>
+> &#183; A person who is responsible for inventing or realizing a particular idea or project.
+>
+> <i>Lexico Dictionary</i>
+
+
