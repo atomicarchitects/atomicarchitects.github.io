@@ -20,38 +20,38 @@ We create new neural networks from first-princples that can naturally handle the
 <table>
 <tr>
   <td width="150">
-  <img src="https://atomicarchitects.github.io/assets/img/tess_with_duck_small.jpg" width="150"/>
+  <a href="#tess"><img src="https://atomicarchitects.github.io/assets/img/tess_with_duck_small.jpg" width="150"/></a>
   </td>
   <td width="150">
-  <img src="https://atomicarchitects.github.io/assets/img/hashim_with_duck_small.jpg" width="150"/>
+  <a href="#hashim"><img src="https://atomicarchitects.github.io/assets/img/hashim_with_duck_small.jpg" width="150"/></a>
   </td>
   <td width="150">
-  <img src="https://atomicarchitects.github.io/assets/img/mario_with_duck_small.jpg" width="150"/>
+  <a href="#mario"><img src="https://atomicarchitects.github.io/assets/img/mario_with_duck_small.jpg" width="150"/></a>
   </td>
   <td width="150">
-  <img src="https://atomicarchitects.github.io/assets/img/ben_with_duck_small.jpg" width="150"/>
+  <a href="#ben"><img src="https://atomicarchitects.github.io/assets/img/ben_with_duck_small.jpg" width="150"/></a>
   </td>
 </tr>
 <tr>
   <td width="150">
-  <img src="https://atomicarchitects.github.io/assets/img/koctya_with_duck_small.jpg" width="150"/>
+  <a href="#koctya"><img src="https://atomicarchitects.github.io/assets/img/koctya_with_duck_small.jpg" width="150"/></a>
   </td>
 </tr>
 </table>
 
-## <a href="https://blondegeek.github.io/">Tess Smidt</a>
+## <a href="https://blondegeek.github.io/">Tess Smidt</a> {#tess}
 Tess is a physicist obsessed with the geometry of atomic systems. She will use any and all tools to understand it -- from first-principle calculations and neural networks to <a href="https://en.wikipedia.org/wiki/Dice#Applications">D&D dice</a> and parameteric computer models. Tess is the 2018 Alvarez Postdoctoral Fellow in Computing Sciences at Lawrence Berkeley Lab and heads the Atomic Architects.
 
-## <a href="https://www.linkedin.com/in/hashim-piracha-65118116b/">Hashim Piracha</a>
+## <a href="https://www.linkedin.com/in/hashim-piracha-65118116b/">Hashim Piracha</a> {#hashim}
 Joining the team as an undergraduate from UC Berkeley, Hashim can often be spotted calculating tensor products of spherical harmonic signals, clustering atomic datasets, and jamming to Pakistani music. Whilst sipping cups of chai, he applies dimensionality reduction techniques such as t-SNE and PCA to visualize high dimensional data. Note: It is said that the more chai he drinks, the more efficient he becomes.
 
-## <a href="https://mariogeiger.ch/">Mario Geiger</a>
+## <a href="https://mariogeiger.ch/">Mario Geiger</a> {#mario}
 Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the <a href="https://en.wikipedia.org/wiki/Benevolent_dictator_for_life">BDFL</a> of <a href="https://github.com/mariogeiger/se3cnn">se3cnn</a>, a framework for neural networks with Euclidean symmetry.
 
-## <a href="http://mathben.com/">Ben Miller</a>
+## <a href="http://mathben.com/">Ben Miller</a> {#ben}
 Ben relied on physical intuition to get through his undergrad and enjoys learning how to make that physical intuition mathematically precise. He is studying the intersection of statistics, physics, and chemistry at the Freie Universität in Berlin. Specifically, he spends his time creating neural network models which learn using geometry. These days, Ben lies awake thinking about the broad landscape of neural network applications and how they manage to learn at all.
 
-## Kostiantyn Lapchevskyi
+## Kostiantyn Lapchevskyi {#koctya}
 
 # ...
 
