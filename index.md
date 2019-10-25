@@ -51,7 +51,8 @@ Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerlan
 ## <a href="http://mathben.com/">Ben Miller</a> {#ben}
 Ben relied on physical intuition to get through his undergrad and enjoys learning how to make that physical intuition mathematically precise. He is studying the intersection of statistics, physics, and chemistry at the Freie Universität in Berlin. Specifically, he spends his time creating neural network models which learn using geometry. These days, Ben lies awake thinking about the broad landscape of neural network applications and how they manage to learn at all.
 
-## Kostiantyn Lapchevskyi {#koctya}
+## <a href="https://www.linkedin.com/in/klsky/">Kostiantyn Lapchevskyi</a> {#koctya}
+Applied physicist turned ML engineer pursuing a dream to build ‘The Blue Police Box’ one day.
 
 # ...
 
