@@ -51,7 +51,8 @@ Ben relied on physical intuition to get through his undergrad and enjoys learnin
 ## <a href="https://www.linkedin.com/in/klsky/">Kostiantyn Lapchevskyi</a> {#koctya}
 Applied physicist turned ML engineer pursuing a dream to build ‘The Blue Police Box’ one day.
 
-## Elliott Perryman {#elliott}
+## <a href="https://elliottperryman.vivaldi.net">Elliott Perryman</a> {#elliott}
+Elliott is an undergraduate student studying computer science and physics and working at LBL through the SULI program. Elliott is from the Mule Capital of the world and enjoys running with friends, reading by the fireplace, and a maximally efficient line of Python.
 
 ## Alumni !
 
