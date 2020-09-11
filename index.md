@@ -32,11 +32,6 @@ We create new neural networks from first-princples that can naturally handle the
   <a href="#koctya"><img src="https://atomicarchitects.github.io/assets/img/koctya_with_duck_small.jpg" width="150"/></a>
   </td>
 </tr>
-<tr>
-  <td width="150">
-  <a href="#elliott"><img src="https://atomicarchitects.github.io/assets/img/elliott_with_duck_small.jpg" width="150"/></a>
-  </td>
-</tr>
 </table>
 
 ## <a href="https://blondegeek.github.io/">Tess Smidt</a> {#tess}
@@ -51,9 +46,6 @@ Ben relied on physical intuition to get through his undergrad and enjoys learnin
 ## <a href="https://www.linkedin.com/in/klsky/">Kostiantyn Lapchevskyi</a> {#koctya}
 Applied physicist turned ML engineer pursuing a dream to build ‘The Blue Police Box’ one day.
 
-## <a href="https://elliottperryman.vivaldi.net">Elliott Perryman</a> {#elliott}
-Elliott is an undergraduate student studying computer science and physics and working at LBL through the SULI program. Elliott is from the Mule Capital of the world and enjoys running with friends, reading by the fireplace, and a maximally efficient line of Python.
-
 ## Alumni !
 
 ### <a href="https://www.linkedin.com/in/hashim-piracha-65118116b/">Hashim Piracha</a> (<a href="https://atomicarchitects.github.io/assets/img/hashim_with_duck_small.jpg">photo</a> | <a href=" " title="Joining the team as an undergraduate from UC Berkeley, Hashim can often be spotted calculating tensor products of spherical harmonic signals, clustering atomic datasets, and jamming to Pakistani music. Whilst sipping cups of chai, he applies dimensionality reduction techniques such as t-SNE and PCA to visualize high dimensional data. Note: It is said that the more chai he drinks, the more efficient he becomes." style="background-color:#FFFFFF;color:#000000;text-decoration:none"> hover for bio</a> ) {#hashim} 
@@ -61,6 +53,10 @@ Then: Undergraduate Research Assistant
 <br>
 Now: Undergraduate at UC Berkeley
 
+### <a href="https://elliottperryman.vivaldi.net">Elliott Perryman</a> (<a href="https://atomicarchitects.github.io/assets/img/elliott_with_duck_small.jpg">photo</a> | <a href" " title="Elliott is an undergraduate student studying computer science and physics and working at LBL through the SULI program. Elliott is from the Mule Capital of the world and enjoys running with friends, reading by the fireplace, and a maximally efficient line of Python." style="background-color:#FFFFFF;color:#000000;text-decoration:none"> hover for bio</a> ) {#elliott}
+Then: Undergraduate Research Assistant
+<br>
+Now: Undergraduate at The University of Tennessee, Knoxville
 
 # ...
 
