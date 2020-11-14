@@ -38,7 +38,7 @@ We create new neural networks from first-princples that can naturally handle the
 Tess is a physicist obsessed with the geometry of atomic systems. She will use any and all tools to understand it -- from first-principle calculations and neural networks to <a href="https://en.wikipedia.org/wiki/Dice#Applications">D&D dice</a> and parameteric computer models. Tess is the 2018 Alvarez Postdoctoral Fellow in Computing Sciences at Lawrence Berkeley Lab and heads the Atomic Architects.
 
 ## <a href="https://mariogeiger.ch/">Mario Geiger</a> {#mario}
-Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the <a href="https://en.wikipedia.org/wiki/Benevolent_dictator_for_life">BDFL</a> of <a href="https://github.com/mariogeiger/se3cnn">se3cnn</a>, a framework for neural networks with Euclidean symmetry.
+Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the <a href="https://en.wikipedia.org/wiki/Benevolent_dictator_for_life">BDFL</a> of <a href="https://github.com/e3nn/e3nn">e3nn</a>, a framework for neural networks with Euclidean symmetry.
 
 ## <a href="http://mathben.com/">Ben Miller</a> {#ben}
 Ben relied on physical intuition to get through his undergrad and enjoys learning how to make that physical intuition mathematically precise. He is studying the intersection of statistics, physics, and chemistry at the Freie Universität in Berlin. Specifically, he spends his time creating neural network models which learn using geometry. These days, Ben lies awake thinking about the broad landscape of neural network applications and how they manage to learn at all.
