@@ -1,4 +1,7 @@
-The Atomic Architects Research Group designs algorithms to understand and generate atomic structures for applications in materials science, chemistry, and biology. We are based at Lawrence Berkeley National Laboratory in the Computational Research Division.
+The Atomic Architects Research Group designs algorithms to understand and generate atomic structures for applications in materials science, chemistry, and biology. We are currently based at Lawrence Berkeley National Laboratory in the Computational Research Division and moving in the Fall to MIT.
+
+
+<font color="#de2c00">We are looking for postdoctoral researchers, graduate students, and undergraduate students interested in working on first-principles machine learning and its applications to the physical sciences. Please reach out to Prof. Smidt at tsmidt@mit.edu with your CV if interested in joining the Atomic Architects.</font>
 
 # Research {#research}
 
@@ -35,7 +38,7 @@ We create new neural networks from first-princples that can naturally handle the
 </table>
 
 ## <a href="https://blondegeek.github.io/">Tess Smidt</a> {#tess}
-Tess is a physicist obsessed with the geometry of atomic systems. She will use any and all tools to understand it -- from first-principle calculations and neural networks to <a href="https://en.wikipedia.org/wiki/Dice#Applications">D&D dice</a> and parameteric computer models. Tess is the 2018 Alvarez Postdoctoral Fellow in Computing Sciences at Lawrence Berkeley Lab and heads the Atomic Architects.
+Tess is a physicist obsessed with the geometry of atomic systems. She will use any and all tools to understand it -- from first-principle calculations and neural networks to <a href="https://en.wikipedia.org/wiki/Dice#Applications">D&D dice</a> and parameteric computer models. Tess is an incoming Assistant Professor in EECS at MIT and heads the Atomic Architects.
 
 ## <a href="https://mariogeiger.ch/">Mario Geiger</a> {#mario}
 Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the <a href="https://en.wikipedia.org/wiki/Benevolent_dictator_for_life">BDFL</a> of <a href="https://github.com/e3nn/e3nn">e3nn</a>, a framework for neural networks with Euclidean symmetry.
