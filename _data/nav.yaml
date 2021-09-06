@@ -1,0 +1,10 @@
+pages:
+
+  - title: Home
+    url: /
+
+  - title: People
+    url: /people.html
+
+  - title: Research
+    url: /research.html

@@ -1,4 +1,5 @@
-theme: jekyll-theme-architect
-title: Atomic&nbsp;Architects
-description: <a href="#research" style="color:white">research</a> |  <a href="#people" style="color:white">people</a> 
+#theme: jekyll-theme-architect
+theme: minima
+title: Atomic Architects
+description: The Atomic Architects is a research group at MIT working at the intersection of physics, geometry, and machine learning to design algorithms that aid in the understanding and design of physical systems.
 markdown: kramdown

@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div id="wrapper">
+      <nav id="nav">
+        <h2>Atomic Architects</h2>
+        <br>
+        <h3>Research Group of Professor Tess Smidt</h3>
+        <ul>
+          {% for item in site.data.nav.pages %}
+            <li>
+              {% if page.url == item.url %}
+                <a href="{{ item.url }}" class="current">{{ item.title }}</a>
+              {% else %}
+                <a href="{{ item.url }}">{{ item.title }}</a>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+      <article id="content">
+        {{ content }}
+      <article>
+    </div>
+  </body>
+</html>
