@@ -4,7 +4,7 @@ title: Research
 ---
 ## Neural Networks from first-principles for rich datatypes
 
-We create new neural networks from first-princples to rigorously represent the rich datatypes present in the physical sciences. For example, we've created (3D) Euclidean neural networks and the accompanying software package [`e3nn`](https://e3nn.org), to naturally handle as geometry and geometric tensors (scalars, vectors, matrices), which transform predicably under 3D rotations and translation.
+We design neural networks from first-princples to rigorously represent the rich datatypes present in the physical sciences. For example, we've created (3D) Euclidean neural networks and the accompanying software package [`e3nn`](https://e3nn.org), to naturally handle as geometry and geometric tensors (scalars, vectors, matrices), which transform predicably under 3D rotations and translation; these are the datatypes of physical systems in 3D.
 
 ## Accelerating existing techniques and creating new capabilities for computational chemistry and material science
 
