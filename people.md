@@ -6,14 +6,19 @@ title: People
 <table style="width:50%">
 <tr>
   <td width="150">
-  <img src="https://atomicarchitects.github.io/assets/img/tess_with_duck_small.jpg" width="150"/>
+  <img src="https://atomicarchitects.github.io/assets/img/Tess_Smidt.jpeg" width="200"/>
   <br>
   <h3><a href="https://blondegeek.github.io/" title="Tess is a physicist obsessed with the geometry of atomic systems. She will use any and all tools to understand it -- from first-principle calculations and neural networks to D&D dice and parameteric computer models. Tess is an Assistant Professor in EECS at MIT and heads the Atomic Architects.">Tess Smidt</a><br> Principal Investigator</h3>
   </td>
  <td width="150">
-  <img src="https://atomicarchitects.github.io/assets/img/mario_with_duck_small.jpg" width="150"/>
+  <img src="https://atomicarchitects.github.io/assets/img/Mario_Geiger.jpeg" width="200"/>
   <br>
-  <h3><a href="https://mariogeiger.ch/" title="Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the BDFL of e3nn, a framework for neural networks with Euclidean symmetry.">Mario Geiger</a><br>Incoming Postdoc :)</h3>
+  <h3><a href="https://mariogeiger.ch/" title="Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the BDFL of e3nn, a framework for neural networks with Euclidean symmetry.">Mario Geiger</a><br>Postdoctoral Scholar</h3>
+  </td>
+ <td width="150">
+  <img src="https://atomicarchitects.github.io/assets/img/Yi-Lun_Liao.jpg" width="200"/>
+  <br>
+  <h3><a href="" title="">Yi-Lun Liao</a><br>PhD Student</h3>
   </td>
 </tr>
 </table>
