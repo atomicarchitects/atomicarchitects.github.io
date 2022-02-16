@@ -2,7 +2,7 @@
   <img id="rand_oct" src="assets/img/rand_oct_spharm.png" align="left">
 </div>
 
-The Atomic Architects works at the intersection of physics, geometry, and machine learning to design algorithms that aid in the understanding and design of physical systems.
+The Atomic Architects work at the intersection of physics, geometry, and machine learning to design algorithms that aid in the understanding and design of physical systems.
 
 <font color="#6B148B">We are looking for postdoctoral researchers, graduate students, and undergraduate students interested in working on first-principles machine learning and its applications to the physical sciences. Please reach out to Prof. Smidt at tsmidt@mit.edu with your CV if interested in joining the Atomic Architects.</font>
 
