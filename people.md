@@ -19,6 +19,7 @@ title: People
   <img src="https://atomicarchitects.github.io/assets/img/Yi-Lun_Liao.jpg" width="200"/>
   <br>
   <h3><a href="" title="">Yi-Lun Liao</a><br>PhD Student</h3>
+<br>
   </td>
 <td width="100">
   <img src="https://atomicarchitects.github.io/assets/img/Song_Kim.jpeg" width="200" />
