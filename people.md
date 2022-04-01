@@ -3,25 +3,36 @@ layout: default
 title: People
 ---
 
-<table style="width:80%">
+<table style="width:100%">
 <tr>
-  <td width="100">
+  <td width="150">
   <img src="https://atomicarchitects.github.io/assets/img/Tess_Smidt.jpeg" width="200"/>
   <br>
-  <h3><a href="https://blondegeek.github.io/" title="Tess is a physicist obsessed with the geometry of atomic systems. She will use any and all tools to understand it -- from first-principle calculations and neural networks to D&D dice and parameteric computer models. Tess is an Assistant Professor in EECS at MIT and heads the Atomic Architects.">Tess Smidt</a><br> Principal Investigator</h3>
+  <h3><a href="https://blondegeek.github.io/" title="Tess is a physicist obsessed with the geometry of atomic systems. She will use any and all tools to understand it -- from first-principle calculations and neural networks to D&D dice and parameteric computer models. Tess is an Assistant Professor in EECS at MIT and heads the Atomic Architects.">Tess Smidt</a><br> Principal Investigator</h3> <br>
   </td>
- <td width="100">
+ <td width="150">
+  <img src="https://atomicarchitects.github.io/assets/img/Cathy_Bourgeois.jpg" width="200"/>
+  <br>
+  <h3><a href="https://www.rle.mit.edu/people/directory/catherine-bourgeois/" title="">Cathy Bourgeois</a><br>RLE Program Manager & Interim Admin. Asst.</h3>
+  </td>
+ <td width="150">
   <img src="https://atomicarchitects.github.io/assets/img/Mario_Geiger.jpeg" width="200"/>
   <br>
-  <h3><a href="https://mariogeiger.ch/" title="Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the BDFL of e3nn, a framework for neural networks with Euclidean symmetry.">Mario Geiger</a><br>Postdoctoral Scholar</h3>
+  <h3><a href="https://mariogeiger.ch/" title="Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the BDFL of e3nn, a framework for neural networks with Euclidean symmetry.">Mario Geiger</a><br>Postdoctoral Scholar</h3> <br>
   </td>
- <td width="100">
+ <td width="150">
   <img src="https://atomicarchitects.github.io/assets/img/Yi-Lun_Liao.jpg" width="200"/>
   <br>
-  <h3><a href="" title="">Yi-Lun Liao</a><br>PhD Student</h3>
-<br>
+  <h3><a href="" title="">Yi-Lun Liao</a><br>PhD Student</h3><br>
   </td>
-<td width="100">
+</tr>
+<tr style="background-color:#F0E2E7">
+ <td width="150">
+  <img src="https://atomicarchitects.github.io/assets/img/Ameya_Daigavane.jpg" width="200"/>
+  <br>
+  <h3><a href="https://ameya98.github.io/" title="">Ameya Daigavane</a><br>Incoming PhD Student</h3>
+  </td>
+<td width="150">
   <img src="https://atomicarchitects.github.io/assets/img/Song_Kim.jpeg" width="200" />
 <br>
 <h3><a href="" title="">Song Kim</a><br>Undegraduate Student</h3>
