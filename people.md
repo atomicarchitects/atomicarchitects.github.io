@@ -42,6 +42,13 @@ title: People
   <br>
   <h3><a href="" title="">YuQing Xie</a><br>Incoming PhD Student</h3>
   </td>
+ <td width="150">
+  <img src="assets/img/Elyssa_Hofgard.jpg" width="200"/>
+  <br>
+  <h3><a href="https://www.linkedin.com/in/elyssa-hofgard12/" title="">Elyssa Hofgard</a><br>Incoming PhD Student</h3>
+  </td>
+</tr>
+<tr>
 <td width="150">
   <img src="assets/img/Song_Kim.jpeg" width="200" />
 <br>
