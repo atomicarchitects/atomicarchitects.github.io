@@ -52,7 +52,7 @@ title: People
 <td width="150">
   <img src="assets/img/Song_Kim.jpeg" width="200" />
 <br>
-<h3><a href="" title="">Song Kim</a><br>Undegraduate Student</h3>
+<h3><a href="https://songkim.me" title="">Song Kim</a><br>Undegraduate Student</h3>
 </td>
 </tr>
 </table>
