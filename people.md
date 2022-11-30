@@ -30,29 +30,34 @@ title: People
  <td width="150">
   <img src="assets/img/Ameya_Daigavane.jpg" width="200"/>
   <br>
-  <h3><a href="https://ameya98.github.io/" title="">Ameya Daigavane</a><br>Incoming PhD Student</h3>
+  <h3><a href="https://ameya98.github.io/" title="">Ameya Daigavane</a><br>PhD Student</h3>
   </td>
  <td width="150">
   <img src="assets/img/Adriana_Ladera.jpg" width="200"/>
   <br>
-  <h3><a href="https://www.linkedin.com/in/adriana-ladera-84b18a171/" title="">Adriana Ladera</a><br>Incoming SM Student</h3>
+  <h3><a href="https://www.linkedin.com/in/adriana-ladera-84b18a171/" title="Hey friends, I'm Adriana, a graduate student in MIT's Computational Science and Engineering program! My research interests are numerical methods and algorithms, high-performance scientific computing, modeling and simulation, and computational geometry. With Tess, I'm interested in studying and creating novel molecular structures with the help of generative models and physics-informed insight (how I'm going to do that... I'll find out eventually). I completed my B.S. in computer science with a minor in physics at the University of South Florida, and am also a 2022 recipient of the NSF Graduate Research Fellowship! Outside of the lab (aka my computer), I enjoy playing piano, going out with friends, doing funky calisthenics, rock climbing, and creating meme art. I also have a fascination with eggs and egg-shaped things, so please send me a photo of those if you find any >:D">Adriana Ladera</a><br>SM Student</h3>
   </td>
  <td width="150">
   <img src="assets/img/YuQing_Xie.jpg" width="200"/>
   <br>
-  <h3><a href="" title="">YuQing Xie</a><br>Incoming PhD Student</h3>
+  <h3><a href="" title="">YuQing Xie</a><br>PhD Student</h3>
   </td>
  <td width="150">
   <img src="assets/img/Elyssa_Hofgard.jpg" width="200"/>
   <br>
-  <h3><a href="https://www.linkedin.com/in/elyssa-hofgard12/" title="">Elyssa Hofgard</a><br>Incoming PhD Student</h3>
+  <h3><a href="https://www.linkedin.com/in/elyssa-hofgard12/" title="">Elyssa Hofgard</a><br>PhD Student</h3>
   </td>
 </tr>
 <tr>
 <td width="150">
   <img src="assets/img/Song_Kim.jpeg" width="200" />
 <br>
-<h3><a href="https://songkim.me" title="">Song Kim</a><br>Undegraduate Student</h3>
+<h3><a href="https://songkim.me" title="">Song Kim</a><br>Undergraduate Student</h3>
+</td>
+<td width="150">
+  <img src="assets/img/cow-l1.jpeg" width="200" />
+<br>
+<h3><a href="#" title="">Tuong Phung</a><br>Undergraduate Student</h3>
 </td>
 </tr>
 </table>
