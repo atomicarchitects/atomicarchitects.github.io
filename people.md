@@ -55,7 +55,7 @@ title: People
 <h3><a href="https://songkim.me" title="">Song Kim</a><br>Undergraduate Student</h3>
 </td>
 <td width="150">
-  <img src="assets/img/cow-l1.png" width="200" />
+  <img src="assets/img/Tuong_Phung.jpg" width="200" />
 <br>
 <h3><a href="#" title="">Tuong Phung</a><br>Undergraduate Student</h3>
 </td>
