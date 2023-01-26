@@ -21,6 +21,11 @@ title: People
   <h3><a href="https://mariogeiger.ch/" title="Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the BDFL of e3nn, a framework for neural networks with Euclidean symmetry.">Mario Geiger</a><br>Postdoctoral Scholar</h3> <br>
   </td>
  <td width="150">
+  <img src="assets/img/Aria_Mansouri_Tehrani.jpg" width="200"/>
+  <br>
+  <h3><a href="https://scholar.google.com/citations?user=NMFJ8y8AAAAJ&hl=en" title="">Aria Mansouri Tehrani</a><br>Postdoctoral Scholar</h3> <br>
+  </td>
+ <td width="150">
   <img src="assets/img/Yi-Lun_Liao.jpg" width="200"/>
   <br>
   <h3><a href="" title="">Yi-Lun Liao</a><br>PhD Student</h3><br>
@@ -40,12 +45,12 @@ title: People
  <td width="150">
   <img src="assets/img/YuQing_Xie.jpg" width="200"/>
   <br>
-  <h3><a href="" title="">YuQing Xie</a><br>PhD Student</h3>
+  <h3><a href="" title="I have written a truly marvelous bio which this space is too small to contain.">YuQing Xie</a><br>PhD Student</h3>
   </td>
  <td width="150">
   <img src="assets/img/Elyssa_Hofgard.jpg" width="200"/>
   <br>
-  <h3><a href="https://www.linkedin.com/in/elyssa-hofgard12/" title="">Elyssa Hofgard</a><br>PhD Student</h3>
+  <h3><a href="https://www.linkedin.com/in/elyssa-hofgard12/" title="I'm currently a first year EECS PhD student. I'm from Louisville, Colorado and I did my master's degree and undergrad at Stanford University. I'm excited to use machine learning to help us understand and design physical systems! In my free time, I like to ski, hike, read, and explore Boston! ">Elyssa Hofgard</a><br>PhD Student</h3>
   </td>
 </tr>
 <tr>
