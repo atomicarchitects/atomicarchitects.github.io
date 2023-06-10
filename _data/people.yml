@@ -1,0 +1,60 @@
+- name: Tess Smidt
+  email: tsmidt@mit.edu
+  website: https://blondegeek.github.io/
+  position: Principal Investigator
+  bio: Tess is a physicist obsessed with the geometry of atomic systems. She will use any and all tools to understand it -- from first-principle calculations and neural networks to D&D dice and parameteric computer models. Tess is an Assistant Professor in EECS at MIT and heads the Atomic Architects.
+- name: Cathy Bourgeois
+  email: cmbourg@mit.edu
+  website: https://www.rle.mit.edu/people/directory/catherine-bourgeois/
+  position: RLE Program Manager & Interim Admin. Asst.
+  bio: 
+- name: Mario Geiger
+  email: mgeiger@mit.edu
+  website: https://mariogeiger.ch/
+  position: Postdoctoral Scholar
+  bio: Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the BDFL of e3nn, a framework for neural networks with Euclidean symmetry.
+- name: Aria Mansouri Tehrani
+  email: ariamt@mit.edu
+  website: https://scholar.google.com/citations?user=NMFJ8y8AAAAJ&hl=en
+  position: Postdoctoral Scholar
+  bio: 
+- name: Yi-Lun Liao
+  email: ylliao@mit.edu
+  website: 
+  position: PhD Student
+  bio: 
+- name: Ameya Daigavane
+  email: ameyad@mit.edu
+  website: https://ameya98.github.io/
+  position: PhD Student
+  bio: 
+- name: Adriana Ladera
+  email: aladera@mit.edu
+  website: https://www.linkedin.com/in/adriana-ladera-84b18a171/
+  position: SM Student
+  bio: Hey friends, I'm Adriana, a graduate student in MIT's Computational Science and Engineering program! My research interests are numerical methods and algorithms, high-performance scientific computing, modeling and simulation, and computational geometry. With Tess, I'm interested in studying and creating novel molecular structures with the help of generative models and physics-informed insight (how I'm going to do that... I'll find out eventually). I completed my B.S. in computer science with a minor in physics at the University of South Florida, and am also a 2022 recipient of the NSF Graduate Research Fellowship! Outside of the lab (aka my computer), I enjoy playing piano, going out with friends, doing funky calisthenics, rock climbing, and creating meme art. I also have a fascination with eggs and egg-shaped things, so please send me a photo of those if you find any >:D
+- name: YuQing Xie
+  email: xyuqing@mit.edu
+  website: 
+  position: PhD Student
+  bio: I have written a truly marvelous bio which this space is too small to contain.
+- name: Elyssa Hofgard
+  email: ehofgard@mit.edu
+  website: https://www.linkedin.com/in/elyssa-hofgard12/
+  position: PhD Student
+  bio: I'm currently a first year EECS PhD student. I'm from Louisville, Colorado and I did my master's degree and undergrad at Stanford University. I'm excited to use machine learning to help us understand and design physical systems! In my free time, I like to ski, hike, read, and explore Boston!
+- name: Allan Costa
+  email: allanc@mit.edu
+  website: 
+  position: PhD Student
+  bio: 
+- name: Song Kim
+  email: songk@mit.edu
+  website: https://songkim.me/
+  position: Undergraduate Student
+  bio: 
+- name: Tuong Phung
+  email: tphung@mit.edu
+  website: 
+  position: Undergraduate Student
+  bio: 
