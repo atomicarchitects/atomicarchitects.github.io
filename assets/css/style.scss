@@ -3,8 +3,13 @@
 
 @import "{{ site.theme }}";
 
+:root {
+  --pink: #F0E2E7;
+  --dark-pink: #b6446c;
+}
+
 body {
-    background-color: #F0E2E7;
+    background-color: var(--pink);
     padding:25px;
     font-size:10pt;
 }
@@ -32,18 +37,13 @@ body {
     color: lighten($text-color, 18%);
     border-collapse: collapse;
     border: 0px;
-    tr {
-      &:nth-child(even) {
-        background-color: lighten($grey-color-light, 6%);
-      }
-    }
     th, td {
       padding: ($spacing-unit / 3) ($spacing-unit / 2);
     }
     th {
-      background-color: lighten($grey-color-light, 3%);
+      background-color: var(--dark-pink);
+      color: white;
       border: 0px;
-      border-bottom-color: darken($grey-color-light, 12%);
     }
     td {
       border: 0px;
@@ -68,7 +68,7 @@ h1, h2 {
 }
 
 h2 {
-    color: #b6446c;
+    color: var(--dark-pink);
     font-weight: bold;
 }
 
