@@ -17,14 +17,24 @@
   month: 7
   day: 4
   presenter: Canceled! Happy 4th of July!
-  location: 36-428 (Haus Room)
+  location:
 - year: 2023
   month: 7
   day: 11
   presenter: Canceled! Tess on travel.
-  location: 36-428 (Haus Room)
+  location: 
 - year: 2023
   month: 7
   day: 18
   presenter: Adriana Ladera
   location: 36-428 (Haus Room)
+- year: 2023
+  month: 7
+  day: 25
+  presenter: Canceled! Tess on travel.
+  location:
+- year: 2023
+  month: 8
+  day: 1
+  presenter: Siddharth Mishra-Sharma
+  location: 36-428
