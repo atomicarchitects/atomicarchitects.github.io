@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="82"
+   height="64.000053"
+   viewBox="0 0 21.695833 16.933347"
+   version="1.1"
+   id="svg309"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="menu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview311"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="-190.25757"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs306" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 1.322917,0 C 0.592296,0 0,0.592269 0,1.322916 0,2.053561 0.592296,2.645833 1.322917,2.645833 h 19.049999 c 0.730621,0 1.322917,-0.592272 1.322917,-1.322917 C 21.695833,0.592269 21.103537,0 20.372916,0 Z m 0,7.14375 C 0.592296,7.143749 0,7.736006 0,8.46665 0,9.197297 0.592296,9.789567 1.322917,9.789567 h 19.049999 c 0.730621,0 1.322917,-0.59227 1.322917,-1.322917 0,-0.730644 -0.592296,-1.322901 -1.322917,-1.322901 z m 0,7.14376 C 0.592296,14.28751 0,14.87978 0,15.610427 c 0,0.730647 0.592296,1.32292 1.322917,1.32292 h 19.049999 c 0.730621,0 1.322917,-0.592273 1.322917,-1.32292 0,-0.730647 -0.592296,-1.322917 -1.322917,-1.322917 z"
+       style="color:#000000;text-indent:0;text-transform:none;direction:ltr;baseline-shift:baseline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;enable-background:accumulate"
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       marker="none"
+       visibility="visible"
+       display="inline"
+       overflow="visible"
+       id="path525" />
+  </g>
+</svg>
