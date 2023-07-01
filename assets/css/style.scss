@@ -212,6 +212,7 @@ p {
   }
 }
 
+/* for mobile menu */
 @media print, screen and (max-width: 800px) {
   .nav-toggle {
     display: block;
@@ -223,7 +224,7 @@ p {
     display: flex;
     flex-direction: column;
     z-index: 1;
-    position: absolute;
+    position: fixed;
     top: 0;
     right: -200px;
     height: 100%;
