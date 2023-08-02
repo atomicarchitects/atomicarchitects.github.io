@@ -20,6 +20,8 @@ title: People
 ## Alumni
 
 ### <a href="https://mariogeiger.ch/">Mario Geiger</a> (<a href="https://atomicarchitects.github.io/assets/img/Mario_Geiger.jpg">photo</a> | <a href=" " title="Mario works on neural networks. When not at Berkeley Lab, he lives in Switzerland. His favorite ice cream flavor is pistachio. Mario is the BDFL of e3nn, a framework for neural networks with Euclidean symmetry.">hover for bio</a>)
+Then: Postdoctoral Scholar
+Now: NVIDIA
 
 ### <a href="https://www.linkedin.com/in/klsky/">Kostiantyn Lapchevskyi</a> (<a href="https://atomicarchitects.github.io/assets/img/koctya_with_duck_small.jpg">photo</a> | <a href=" " title="Applied physicist turned ML engineer pursuing a dream to build ‘The Blue Police Box’ one day.">hover for bio</a>)
 Then: Masters Student at the Ukranian Catholic University
