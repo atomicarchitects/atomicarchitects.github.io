@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68.325851"
+   height="68.174995"
+   viewBox="0 0 18.077881 18.037967"
+   version="1.1"
+   id="svg227"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="close.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview229"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="-687.30549"
+     inkscape:cy="561.25985"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs224" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 0.4103301,17.614635 c 0.264584,0.264583 0.635,0.423333 1.005417,0.423333 0.370417,0 0.714375,-0.132292 1.005417,-0.423333 l 6.614583,-6.614583 6.6145829,6.614583 c 0.264583,0.264583 0.635,0.423333 1.005417,0.423333 0.370416,0 0.714375,-0.132292 1.005416,-0.423333 0.555625,-0.555625 0.555625,-1.455208 0,-1.984375 L 11.04658,9.0156774 17.661163,2.4010938 c 0.555625,-0.555625 0.555625,-1.45520845 0,-1.98437505 -0.555625,-0.555625 -1.42875,-0.555625 -1.984375,0 L 9.0622051,7.0313023 2.4476221,0.41671875 c -0.555625,-0.555625 -1.42875,-0.555625 -1.984375,0 -0.555625,0.555625 -0.555625,1.45520825 0,1.98437505 l 6.614583,6.6145836 -6.614583,6.6145826 c -0.608542,0.555625 -0.608542,1.42875 -0.05292,1.984375 z"
+       id="path212"
+       style="stroke-width:0.264583;fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>

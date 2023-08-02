@@ -1,37 +1,80 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  </head>
-  <body>
-    <div id="wrapper">
-      <nav id="nav">
+  <script>
+    function toggleDropdown() {
+      document.getElementsByClassName("dropdown")[0].classList.toggle("show");
+      document.getElementsByClassName("overlay")[0].classList.toggle("show");
+    }
+  </script>
+</head>
+
+<body>
+  <div id="wrapper">
+    <nav id="nav">
+      <div id="header">
         <h2>Atomic Architects</h2>
         <br>
         <h3>Research Group of Professor Tess Smidt</h3>
-        <ul>
-          {% for item in site.data.nav.pages %}
-            <li>
-              {% if page.url == item.url %}
-                <a href="{{ item.url }}" class="current">{{ item.title }}</a>
-              {% else %}
-                <a href="{{ item.url }}">{{ item.title }}</a>
-              {% endif %}
-            </li>
-          {% endfor %}
-        </ul>
-      </nav>
-      <article id="content">
-        {{ content }}
+      </div>
+      <button class="nav-toggle" onclick="toggleDropdown()">
+        <svg
+          width="16"
+          viewBox="0 0 21.695833 16.933347"
+          version="1.1">
+            <path
+              d="M 1.322917,0 C 0.592296,0 0,0.592269 0,1.322916 0,2.053561 0.592296,2.645833 1.322917,2.645833 h 19.049999 c 0.730621,0 1.322917,-0.592272 1.322917,-1.322917 C 21.695833,0.592269 21.103537,0 20.372916,0 Z m 0,7.14375 C 0.592296,7.143749 0,7.736006 0,8.46665 0,9.197297 0.592296,9.789567 1.322917,9.789567 h 19.049999 c 0.730621,0 1.322917,-0.59227 1.322917,-1.322917 0,-0.730644 -0.592296,-1.322901 -1.322917,-1.322901 z m 0,7.14376 C 0.592296,14.28751 0,14.87978 0,15.610427 c 0,0.730647 0.592296,1.32292 1.322917,1.32292 h 19.049999 c 0.730621,0 1.322917,-0.592273 1.322917,-1.32292 0,-0.730647 -0.592296,-1.322917 -1.322917,-1.322917 z"
+              fill="#646366"
+              stroke="none"
+              marker="none"
+              visibility="visible"
+              display="inline"
+              overflow="visible" />
+        </svg>
+
+      </button>
+      <ul class="dropdown">
+        <div class="dropdown-heading">
+          <h3>Menu</h3>
+          <button class="nav-close" onclick="toggleDropdown()">
+            <svg
+              width="16"
+              viewBox="0 0 18.077881 18.037967"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:svg="http://www.w3.org/2000/svg" >
+                <path
+                  id="close-x"
+                  d="m 0.4103301,17.614635 c 0.264584,0.264583 0.635,0.423333 1.005417,0.423333 0.370417,0 0.714375,-0.132292 1.005417,-0.423333 l 6.614583,-6.614583 6.6145829,6.614583 c 0.264583,0.264583 0.635,0.423333 1.005417,0.423333 0.370416,0 0.714375,-0.132292 1.005416,-0.423333 0.555625,-0.555625 0.555625,-1.455208 0,-1.984375 L 11.04658,9.0156774 17.661163,2.4010938 c 0.555625,-0.555625 0.555625,-1.45520845 0,-1.98437505 -0.555625,-0.555625 -1.42875,-0.555625 -1.984375,0 L 9.0622051,7.0313023 2.4476221,0.41671875 c -0.555625,-0.555625 -1.42875,-0.555625 -1.984375,0 -0.555625,0.555625 -0.555625,1.45520825 0,1.98437505 l 6.614583,6.6145836 -6.614583,6.6145826 c -0.608542,0.555625 -0.608542,1.42875 -0.05292,1.984375 z"
+                  fill="#ffffff" />
+            </svg>
+          </button>
+        </div>
+        {% for item in site.data.nav.pages %}
+        <li>
+          {% if page.url == item.url %}
+          <a href="{{ item.url }}" class="current">{{ item.title }}</a>
+          {% else %}
+          <a href="{{ item.url }}">{{ item.title }}</a>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <div class="overlay" onclick="toggleDropdown()"></div>
+    <article id="content">
+      {{ content }}
       <article>
-    </div>
-  </body>
+  </div>
+</body>
+
 </html>
