@@ -6,7 +6,7 @@ title: People
 <div class="people-list">
 {% for person in site.data.people %}
     {% assign splitname = person.name | split: " " -%}
-      <div style="width: 170px; height: 270px; display: grid; grid-template-rows: 170px 2em auto 1em; padding: 10px 15px;">
+      <div style="width: 170px; height: 270px; display: grid; grid-template-rows: 170px 3em auto 1em; padding: 10px 15px;">
         <img src="assets/img/{{splitname | join: '_'}}.jpg" height="170px" style="width: auto;"/>
         <h3 style="margin-bottom: 0;">
           <a href="{{person.website}}" title="{{person.bio}}">{{person.name}}</a>

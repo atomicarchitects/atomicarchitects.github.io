@@ -43,7 +43,7 @@ table {
   border-collapse: collapse;
   border: 0px;
   th, td {
-    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    padding: calc($spacing-unit / 3) calc($spacing-unit / 2);
   }
   th {
     background-color: var(--dark-pink);
