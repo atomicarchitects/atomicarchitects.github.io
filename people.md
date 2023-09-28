@@ -11,8 +11,8 @@ title: People
         <h3 style="margin-bottom: 0;">
           <a href="{{person.website}}" title="{{person.bio}}">{{person.name}}</a>
         </h3>
-        <h3>{{person.position}}</h3>
-        <h4><a href="mailto:{{person.email}}">Email</a></h3>
+        <h3 style="margin-bottom: 0;">{{person.position}}</h3>
+        <h4 style="margin-bottom: 0;"><a href="mailto:{{person.email}}">Email</a></h3>
       </div>
 {% endfor %}
 </div>
