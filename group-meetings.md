@@ -3,7 +3,7 @@ layout: default
 title: Group Meetings
 ---
 
-Our group meetings are Tuesdays at 4-5 pm. All meetings are in 36-428 (Haus Room) unless otherwise specified.
+Our group meetings are Fridays at 10-11 am. All meetings are in 36-428 (Haus Room) unless otherwise specified.
 
 <table>
     <tr>
