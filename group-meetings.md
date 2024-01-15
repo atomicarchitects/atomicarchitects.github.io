@@ -6,6 +6,7 @@ title: Group Meetings
 <table>
     <tr>
         <th>Date</th>
+        <th>Time</th>
         <th>Presenter</th>
         <th>Location</th>
     </tr>
@@ -18,7 +19,8 @@ title: Group Meetings
         {% assign meeting_date = meeting.year | append: meeting_month | append: meeting_day %}
         {% if meeting_date >= today and meeting_count < max_meetings %}
             <tr>
-                <td>{{meeting.time}} {{meeting.month}}/{{meeting.day}}/{{meeting.year}}</td>
+                <td>{{meeting.month}}/{{meeting.day}}/{{meeting.year}}</td>
+                <td>{{meeting.time}}</td>
                 <td>{{meeting.presenter}}</td>
                 <td>{{meeting.location}}</td>
             </tr>
