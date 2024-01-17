@@ -42,84 +42,84 @@
 
 - year: 2024
   month: 03
-  day: 05
+  day: 12
   time: 16:00 ET
   presenter: Mit Kotak
   location: 36-428 (Haus Room)
 
 - year: 2024
   month: 03
-  day: 12
+  day: 19
   time: 16:00 ET
   presenter: Siddharth Mishra-Sharma
   location: 36-428 (Haus Room)
 
 - year: 2024
   month: 03
-  day: 19
-  time: 16:00 ET
-  presenter: Ray Wang
-  location: 36-428 (Haus Room)
-
-- year: 2024
-  month: 03
   day: 26
   time: 16:00 ET
-  presenter: Yi-Lun Liao
+  presenter: Ray Wang
   location: 36-428 (Haus Room)
 
 - year: 2024
   month: 04
   day: 02
   time: 16:00 ET
-  presenter: Tuong Phung
+  presenter: Yi-Lun Liao
   location: 36-428 (Haus Room)
 
 - year: 2024
   month: 04
   day: 09
   time: 16:00 ET
-  presenter: Song Kim
+  presenter: Tuong Phung
   location: 36-428 (Haus Room)
 
 - year: 2024
   month: 04
   day: 16
   time: 16:00 ET
-  presenter: Hannah Gold
+  presenter: Song Kim
   location: 36-428 (Haus Room)
 
 - year: 2024
   month: 04
   day: 23
   time: 16:00 ET
-  presenter: Allan Costa
+  presenter: Hannah Gold
   location: 36-428 (Haus Room)
 
 - year: 2024
   month: 04
   day: 30
   time: 16:00 ET
-  presenter: Max Aalto
+  presenter: Allan Costa
   location: 36-428 (Haus Room)
 
 - year: 2024
   month: 05
   day: 07
   time: 16:00 ET
-  presenter: Julia Balla
+  presenter: Max Aalto
   location: 36-428 (Haus Room)
 
 - year: 2024
   month: 05
   day: 14
   time: 16:00 ET
-  presenter: Giulianna Hashemi-Asasi
+  presenter: Julia Balla
   location: 36-428 (Haus Room)
 
 - year: 2024
   month: 05
   day: 21
+  time: 16:00 ET
+  presenter: Giulianna Hashemi-Asasi
+  location: 36-428 (Haus Room)
+
+- year: 2024
+  month: 05
+  day: 28
   time: 16:00 ET
   presenter: Hannah Lawrence
   location: 36-428 (Haus Room)
