@@ -1,113 +1,99 @@
 - year: 2024
   month: 02
-  day: 06
-  time: 16:00 ET
-  presenter: YuQing Xie
-  location: 36-462 (Allen Room)
-
-- year: 2024
-  month: 02
-  day: 13
-  time: 16:00 ET
-  presenter: Aria Mansouri Tehrani
-  location: 36-428 (Haus Room)
-
-- year: 2024
-  month: 02
-  day: 20
-  time: 16:00 ET
-  presenter: Adriana Ladera
-  location: 36-428 (Haus Room)
-
-- year: 2024
-  month: 02
-  day: 27
-  time: 16:00 ET
-  presenter: Elyssa Hofgard
-  location: 36-428 (Haus Room)
-
-- year: 2024
-  month: 03
-  day: 12
-  time: 16:00 ET
-  presenter: Mit Kotak
-  location: 36-428 (Haus Room)
-
-- year: 2024
-  month: 03
-  day: 19
-  time: 16:00 ET
-  presenter: Siddharth Mishra-Sharma
-  location: 36-428 (Haus Room)
-
-- year: 2024
-  month: 04
-  day: 02
-  time: 16:00 ET
-  presenter: Ray Wang
-  location: 36-428 (Haus Room)
-
-- year: 2024
-  month: 04
-  day: 09
-  time: 16:00 ET
-  presenter: Yi-Lun Liao
-  location: 36-428 (Haus Room)
-
-- year: 2024
-  month: 04
-  day: 16
-  time: 16:00 ET
-  presenter: Tuong Phung
-  location: 36-428 (Haus Room)
-
-- year: 2024
-  month: 04
   day: 23
-  time: 16:00 ET
-  presenter: Song Kim
-  location: 36-428 (Haus Room)
+  time: 13:00 ET
+  presenter: Mit Kotak
+  location: 32-G575
+
+- year: 2024
+  month: 03
+  day: 01
+  time: 13:00 ET
+  presenter: Elyssa Hofgard
+  location: 32-G575
+
+- year: 2024
+  month: 03
+  day: 15
+  time: 13:00 ET
+  presenter: Adriana Ladera
+  location: 32-G575
+
+- year: 2024
+  month: 03
+  day: 22
+  time: 13:00 ET
+  presenter: Siddharth Mishra-Sharma
+  location: 32-G575
 
 - year: 2024
   month: 04
-  day: 30
-  time: 16:00 ET
+  day: 05
+  time: 13:00 ET
+  presenter: Ray Wang
+  location: 32-G575
+
+- year: 2024
+  month: 04
+  day: 12
+  time: 13:00 ET
+  presenter: Yi-Lun Liao
+  location: 32-G575
+
+- year: 2024
+  month: 04
+  day: 19
+  time: 13:00 ET
+  presenter: Tuong Phung
+  location: 32-G575
+
+- year: 2024
+  month: 04
+  day: 26
+  time: 13:00 ET
+  presenter: Song Kim
+  location: 32-G575
+
+- year: 2024
+  month: 05
+  day: 03
+  time: 13:00 ET
   presenter: Hannah Gold
-  location: 36-428 (Haus Room)
+  location: 32-G575
 
 - year: 2024
   month: 05
-  day: 07
-  time: 16:00 ET
+  day: 10
+  time: 13:00 ET
   presenter: Allan Costa
-  location: 36-428 (Haus Room)
+  location: 32-G575
 
 - year: 2024
   month: 05
-  day: 14
-  time: 16:00 ET
+  day: 17
+  time: 13:00 ET
   presenter: Max Aalto
-  location: 36-428 (Haus Room)
+  location: 32-G575
 
 - year: 2024
   month: 05
-  day: 21
-  time: 16:00 ET
+  day: 24
+  time: 13:00 ET
   presenter: Julia Balla
-  location: 36-428 (Haus Room)
+  location: 32-G575
 
 - year: 2024
   month: 05
-  day: 28
-  time: 16:00 ET
+  day: 31
+  time: 13:00 ET
   presenter: Giulianna Hashemi-Asasi
-  location: 36-428 (Haus Room)
+  location: 32-G575
 
 - year: 2024
   month: 06
-  day: 04
-  time: 16:00 ET
+  day: 07
+  time: 13:00 ET
   presenter: Hannah Lawrence
-  location: 36-428 (Haus Room)
+  location: 32-G575
 
   
