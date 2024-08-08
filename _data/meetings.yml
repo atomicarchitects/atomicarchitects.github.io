@@ -1,15 +1,22 @@
 - year: 2024
-  month: 05
-  day: 03
-  time: 13:00 ET
-  presenter: Yi-Lun Liao
-  location: 45-332
+  month: 08
+  day: 13 
+  time: 11:00 ET
+  presenter: Max Shirokawa
+  location: 36-647
 
 - year: 2024
-  month: 05
-  day: 17 
-  time: 13:00 ET
-  presenter: YuQing Xie
+  month: 08
+  day: 20 
+  time: 11:00 ET
+  presenter: 
+  location: 36-647
+
+- year: 2024
+  month: 08
+  day: 27 
+  time: 11:00 ET
+  presenter: 
   location: 36-647
 
 # - year: 2024
