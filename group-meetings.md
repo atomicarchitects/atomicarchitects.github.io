@@ -3,6 +3,8 @@ layout: default
 title: Group Meetings
 ---
 
+Our group meetings are Tuesdays at 11am - 12pm. All meetings are in 36-647 unless otherwise specified.
+
 <table>
     <tr>
         <th>Date</th>
