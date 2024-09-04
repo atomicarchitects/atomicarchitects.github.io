@@ -1,21 +1,22 @@
 
-- year: 2024
-  month: 08
-  day: 20 
-  time: 11:00 ET
-  presenter: Julia Balla
-  location: 36-647
 
 - year: 2024
-  month: 08
-  day: 27 
+  month: 09
+  day: 11
   time: 11:00 ET
-  presenter: Hannah Gold
+  presenter: 
   location: 36-647
 
 - year: 2024
   month: 09
-  day: 03
+  day: 18
+  time: 11:00 ET
+  presenter: 
+  location: 36-647
+
+  - year: 2024
+  month: 09
+  day: 25
   time: 11:00 ET
   presenter: 
   location: 36-647
