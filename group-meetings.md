@@ -3,7 +3,7 @@ layout: default
 title: Group Meetings
 ---
 
-Our group meetings are Tuesdays at 11am-12pm ET. All meetings are in 36-647 unless otherwise specified.
+Our group meetings are Wednesdays at 3-4pm ET. All meetings are in 36-647 unless otherwise specified.
 
 <table>
     <tr>
