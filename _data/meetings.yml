@@ -1,36 +1,8 @@
 - year: 2024
-  month: 09
-  day: 11
-  time: 4:00 ET
-  presenter: Open Discussion
-  location: 36-647
-
-- year: 2024
-  month: 09
-  day: 18
-  time: 4:00 ET
-  presenter: Tuong Phung; Mit Kotak
-  location: 36-647
-
-- year: 2024
-  month: 09
-  day: 25
-  time: 4:00 ET
-  presenter: Song Kim; Ameya Daigavane
-  location: 36-647
-
-- year: 2024
-  month: 10
-  day: 02
-  time: 4:00 ET
-  presenter: Teddy Koker; Christopher Kollof
-  location: 36-647
-
-- year: 2024
   month: 10
   day: 09
   time: 4:00 ET
-  presenter: Elyssa Hofgard; Adriana Ladera
+  presenter: Teddy Koker; Elyssa Hofgard
   location: 36-647
 
 - year: 2024
@@ -44,14 +16,14 @@
   month: 10
   day: 23
   time: 4:00 ET
-  presenter: Max Aalto; Hannah Lawrence
+  presenter: Max Aalto; Ariana Adriana Ladera
   location: 36-647
 
 - year: 2024
   month: 10
   day: 30
   time: 4:00 ET
-  presenter: Hannah Gold; Allan Costa
+  presenter: Allan Costa; Hannah Lawrence
   location: 36-647
 
 - year: 2024
@@ -66,4 +38,11 @@
   day: 13
   time: 4:00 ET
   presenter: Giulianna Hashemi-Asasi; Julia Balla
+  location: 36-647
+
+- year: 2024
+  month: 11
+  day: 20
+  time: 4:00 ET
+  presenter: Hannah Gold
   location: 36-647
