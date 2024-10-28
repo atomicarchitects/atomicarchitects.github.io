@@ -1,48 +1,34 @@
 - year: 2024
   month: 10
-  day: 09
-  time: 4:00 ET
-  presenter: Teddy Koker; Elyssa Hofgard
-  location: 36-647
-
-- year: 2024
-  month: 10
-  day: 16
-  time: 4:00 ET
-  presenter: Jigyasa Nigam; Ryley McConkey
-  location: 36-647
-
-- year: 2024
-  month: 10
-  day: 23
-  time: 4:00 ET
-  presenter: Max Aalto; Ariana Adriana Ladera
-  location: 36-647
-
-- year: 2024
-  month: 10
   day: 30
   time: 4:00 ET
-  presenter: Allan Costa; Hannah Lawrence
+  presenter: Max Aalto; Adriana Ladera
   location: 36-647
 
 - year: 2024
   month: 11
   day: 06
   time: 4:00 ET
-  presenter: Yi-Lun Liao; YuQing Xie
+  presenter: Allan Costa; Hannah Lawrence
   location: 36-647
 
 - year: 2024
   month: 11
   day: 13
   time: 4:00 ET
-  presenter: Giulianna Hashemi-Asasi; Julia Balla
+  presenter: Yi-Lun Liao; YuQing Xie
   location: 36-647
 
 - year: 2024
   month: 11
   day: 20
+  time: 4:00 ET
+  presenter: Giulianna Hashemi-Asasi; Julia Balla
+  location: 36-647
+
+- year: 2024
+  month: 11
+  day: 27
   time: 4:00 ET
   presenter: Hannah Gold
   location: 36-647
