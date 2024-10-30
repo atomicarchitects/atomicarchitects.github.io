@@ -8,16 +8,6 @@
   website: https://www.rle.mit.edu/people/directory/tricia-odonnell/
   position: Administrative Assistant
   bio: 
-- name: Aria Mansouri Tehrani
-  email: ariamt WHERE mit DOT edu
-  website: https://scholar.google.com/citations?user=NMFJ8y8AAAAJ&hl=en
-  position: Postdoctoral Scholar
-  bio: 
-- name: Rui Wang
-  email: rayruw WHERE mit DOT edu
-  website: https://rui1521.github.io/online-cv/
-  position: Postdoctoral Scholar
-  bio: 
 - name: Yi-Lun Liao
   email: ylliao WHERE mit DOT edu
   website: 
@@ -75,12 +65,12 @@
 - name: Song Kim
   email: songk WHERE mit DOT edu
   website: https://songkim.me/
-  position: Undergraduate Student
+  position: MEng Student
   bio: 
 - name: Tuong Phung
   email: tphung WHERE mit DOT edu
   website: 
-  position: Undergraduate Student
+  position: MEng Student
   bio: 
 - name: Christopher Kolloff
   email: kolloff WHERE mit DOT edu
