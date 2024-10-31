@@ -23,6 +23,11 @@
   then: Masters Student at FU Berlin
   now: PhD Student at the University of Amsterdam
   bio: Ben relied on physical intuition to get through his undergrad and enjoys learning how to make that physical intuition mathematically precise. He is studying the intersection of statistics, physics, and chemistry at the Freie Universität in Berlin. Specifically, he spends his time creating neural network models which learn using geometry. These days, Ben lies awake thinking about the broad landscape of neural network applications and how they manage to learn at all.
+- name: Hashim Piracha
+  website: https://www.linkedin.com/in/hashim-piracha-65118116b/
+  then: Undergraduate Research Assistant
+  now: Undergraduate at UC Berkeley
+  bio: 'Joining the team as an undergraduate from UC Berkeley, Hashim can often be spotted calculating tensor products of spherical harmonic signals, clustering atomic datasets, and jamming to Pakistani music. Whilst sipping cups of chai, he applies dimensionality reduction techniques such as t-SNE and PCA to visualize high dimensional data. Note: It is said that the more chai he drinks, the more efficient he becomes.'
 - name: Elliott Perryman
   website: https://elliottperryman.vivaldi.net
   then: Undergraduate Research Assistant

@@ -64,7 +64,7 @@
   position: PhD Student
 - name: Song Kim
   email: songk WHERE mit DOT edu
-  website: https://songkim.me/
+  website:
   position: MEng Student
   bio: 
 - name: Tuong Phung
@@ -82,3 +82,8 @@
   website: http://curiosity54.github.io
   position: Postdoc, SoE Engineering Excellence Fellow 
   bio: 
+- name: Ryley McConkey
+  email: rmcconke WHERE mit DOT edu
+  website: https://rmcconke.github.io/
+  position: Postdoc
+  bio:
