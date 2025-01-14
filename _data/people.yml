@@ -8,16 +8,6 @@
   website: https://www.rle.mit.edu/people/directory/tricia-odonnell/
   position: Administrative Assistant
   bio: 
-- name: Aria Mansouri Tehrani
-  email: ariamt WHERE mit DOT edu
-  website: https://scholar.google.com/citations?user=NMFJ8y8AAAAJ&hl=en
-  position: Postdoctoral Scholar
-  bio: 
-- name: Rui Wang
-  email: rayruw WHERE mit DOT edu
-  website: https://rui1521.github.io/online-cv/
-  position: Postdoctoral Scholar
-  bio: 
 - name: Yi-Lun Liao
   email: ylliao WHERE mit DOT edu
   website: 
@@ -40,7 +30,7 @@
   bio: I have written a truly marvelous bio which this space is too small to contain.
 - name: Elyssa Hofgard
   email: ehofgard WHERE mit DOT edu
-  website: https://www.linkedin.com/in/elyssa-hofgard12/
+  website: https://ehofgard.github.io/
   position: PhD Student
   bio: I'm currently a first year EECS PhD student. I'm from Louisville, Colorado and I did my master's degree and undergrad at Stanford University. I'm excited to use machine learning to help us understand and design physical systems! In my free time, I like to ski, hike, read, and explore Boston!
 - name: Allan Costa
@@ -74,17 +64,26 @@
   position: PhD Student
 - name: Song Kim
   email: songk WHERE mit DOT edu
-  website: https://songkim.me/
-  position: Undergraduate Student
+  website:
+  position: MEng Student
   bio: 
 - name: Tuong Phung
   email: tphung WHERE mit DOT edu
   website: 
-  position: Undergraduate Student
+  position: MEng Student
   bio: 
 - name: Christopher Kolloff
   email: kolloff WHERE mit DOT edu
   website: https://www.linkedin.com/in/christopher-kolloff-b8990a115/
-  position: Visiting Student Researcher, Fulbright fellow
+  position: Visiting Student Researcher
   bio: Christopher is a Molecular Biologist turned Biophysicist turned Computational Scientist interested in studying protein dynamics from all angles imaginable. He is a Fulbright fellow doing a research stint in Tess' lab as part of his PhD program in Sweden, where he works with Simon Olsson.
-
+- name: Jigyasa Nigam
+  email: jnigam WHERE mit DOT edu
+  website: http://curiosity54.github.io
+  position: Postdoc, SoE Engineering Excellence Fellow 
+  bio: 
+- name: Ryley McConkey
+  email: rmcconke WHERE mit DOT edu
+  website: https://rmcconke.github.io/
+  position: Postdoc
+  bio:
