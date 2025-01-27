@@ -2,88 +2,112 @@
   email: tsmidt WHERE mit DOT edu
   website: https://blondegeek.github.io/
   position: Principal Investigator
+  img_type: jpg
   bio: Tess is a physicist obsessed with the geometry of atomic systems. She will use any and all tools to understand it -- from first-principle calculations and neural networks to D&D dice and parameteric computer models. Tess is an Assistant Professor in EECS at MIT and heads the Atomic Architects.
 - name: Tricia O'Donnell
   email: tricia WHERE mit DOT edu
   website: https://www.rle.mit.edu/people/directory/tricia-odonnell/
   position: Administrative Assistant
+  img_type: jpg
   bio: 
-- name: Yi-Lun Liao
-  email: ylliao WHERE mit DOT edu
-  website: 
-  position: PhD Student
-  bio: 
-- name: Ameya Daigavane
-  email: ameyad WHERE mit DOT edu
-  website: https://ameya98.github.io/
-  position: PhD Student
-  bio: 
-- name: Adriana Ladera
-  email: aladera WHERE mit DOT edu
-  website: https://adrianaladera.github.io/
-  position: SM Student
-  bio: Helping to yassify the world of materials science one day at a time.
-- name: YuQing Xie
-  email: xyuqing WHERE mit DOT edu
-  website: 
-  position: PhD Student
-  bio: I have written a truly marvelous bio which this space is too small to contain.
-- name: Elyssa Hofgard
-  email: ehofgard WHERE mit DOT edu
-  website: https://ehofgard.github.io/
-  position: PhD Student
-  bio: I'm currently a first year EECS PhD student. I'm from Louisville, Colorado and I did my master's degree and undergrad at Stanford University. I'm excited to use machine learning to help us understand and design physical systems! In my free time, I like to ski, hike, read, and explore Boston!
-- name: Allan Costa
-  email: allanc WHERE mit DOT edu
-  website: 
-  position: PhD Student
-  bio: 
-- name: Mit Kotak
-  email: mkotak WHERE mit DOT edu
-  website: https://mitkotak.github.io
-  position: SM Student
-  bio:
-- name: Julia Balla
-  email: jballa WHERE mit DOT edu
-  website: https://julballa.github.io/
-  position: PhD Student
-  bio:
-- name: Giulianna Hashemi-Asasi
-  email: ghasasi WHERE mit DOT edu
-  website: https://www.linkedin.com/in/giulianna-hashemi-asasi-365796216/
-  position: PhD Student
-  bio:
-- name: Max Aalto
-  email: maxaalto WHERE mit DOT edu
-  website:
-  position: PhD Student
-  bio:
-- name: Teddy Koker
-  email: tekoker WHERE mit DOT edu
-  website: https://teddykoker.com
-  position: PhD Student
-- name: Song Kim
-  email: songk WHERE mit DOT edu
-  website:
-  position: MEng Student
-  bio: 
-- name: Tuong Phung
-  email: tphung WHERE mit DOT edu
-  website: 
-  position: MEng Student
-  bio: 
-- name: Christopher Kolloff
-  email: kolloff WHERE mit DOT edu
-  website: https://www.linkedin.com/in/christopher-kolloff-b8990a115/
-  position: Visiting Student Researcher
-  bio: Christopher is a Molecular Biologist turned Biophysicist turned Computational Scientist interested in studying protein dynamics from all angles imaginable. He is a Fulbright fellow doing a research stint in Tess' lab as part of his PhD program in Sweden, where he works with Simon Olsson.
 - name: Jigyasa Nigam
   email: jnigam WHERE mit DOT edu
   website: http://curiosity54.github.io
   position: Postdoc, SoE Engineering Excellence Fellow 
+  img_type: jpg
   bio: 
 - name: Ryley McConkey
   email: rmcconke WHERE mit DOT edu
   website: https://rmcconke.github.io/
   position: Postdoc
+  img_type: jpg
+  bio:
+- name: Yi-Lun Liao
+  email: ylliao WHERE mit DOT edu
+  website: 
+  position: PhD Student
+  img_type: jpg
+  bio: 
+- name: Ameya Daigavane
+  email: ameyad WHERE mit DOT edu
+  website: https://ameya98.github.io/
+  position: PhD Student
+  img_type: jpg
+  bio: 
+- name: Adriana Ladera
+  email: aladera WHERE mit DOT edu
+  website: https://adrianaladera.github.io/
+  position: SM Student
+  img_type: jpg
+  bio: Helping to yassify the world of materials science one day at a time.
+- name: YuQing Xie
+  email: xyuqing WHERE mit DOT edu
+  website: 
+  position: PhD Student
+  img_type: jpg
+  bio: I have written a truly marvelous bio which this space is too small to contain.
+- name: Elyssa Hofgard
+  email: ehofgard WHERE mit DOT edu
+  website: https://ehofgard.github.io/
+  position: PhD Student
+  img_type: jpg
+  bio: I'm currently a first year EECS PhD student. I'm from Louisville, Colorado and I did my master's degree and undergrad at Stanford University. I'm excited to use machine learning to help us understand and design physical systems! In my free time, I like to ski, hike, read, and explore Boston!
+- name: Allan Costa
+  email: allanc WHERE mit DOT edu
+  website: 
+  position: PhD Student
+  img_type: jpg
+  bio: 
+- name: Mit Kotak
+  email: mkotak WHERE mit DOT edu
+  website: https://mitkotak.github.io
+  position: SM Student
+  img_type: jpg
+  bio:
+- name: Julia Balla
+  email: jballa WHERE mit DOT edu
+  website: https://julballa.github.io/
+  position: PhD Student
+  img_type: jpg
+  bio:
+- name: Giulianna Hashemi-Asasi
+  email: ghasasi WHERE mit DOT edu
+  website: https://www.linkedin.com/in/giulianna-hashemi-asasi-365796216/
+  position: PhD Student
+  img_type: jpg
+  bio:
+- name: Max Aalto
+  email: maxaalto WHERE mit DOT edu
+  website:
+  position: PhD Student
+  img_type: jpg
+  bio:
+- name: Teddy Koker
+  email: tekoker WHERE mit DOT edu
+  website: https://teddykoker.com
+  position: PhD Student
+  img_type: jpg
+- name: Song Kim
+  email: songk WHERE mit DOT edu
+  website:
+  position: MEng Student
+  img_type: jpg
+  bio: 
+- name: Tuong Phung
+  email: tphung WHERE mit DOT edu
+  website: 
+  position: MEng Student
+  img_type: jpg
+  bio: 
+- name: Christopher Kolloff
+  email: kolloff WHERE mit DOT edu
+  website: https://www.linkedin.com/in/christopher-kolloff-b8990a115/
+  position: Visiting Student Researcher
+  img_type: jpg
+  bio: Christopher is a Molecular Biologist turned Biophysicist turned Computational Scientist interested in studying protein dynamics from all angles imaginable. He is a Fulbright fellow doing a research stint in Tess' lab as part of his PhD program in Sweden, where he works with Simon Olsson.
+- name: Kyucheol Min
+  email: mink202 WHERE mit DOT edu
+  website:
+  position: Undergraduate Researcher
+  img_type: jpg
   bio:
