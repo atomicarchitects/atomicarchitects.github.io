@@ -8,6 +8,9 @@ pages:
 
   - title: Research
     url: /research.html
+  
+  - title: Publications
+    url: /publications.html
 
   - title: Group Meetings
     url: /group-meetings.html
