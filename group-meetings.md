@@ -3,7 +3,7 @@ layout: default
 title: Group Meetings
 ---
 
-Our group meetings are Wednesdays at 4-5 PM ET. All meetings are in 36-462 (Allen Room), unless otherwise specified.
+Our group meetings are Thursdays at 4-5 PM ET. The detailed schedule is below.
 
 <table>
     <tr>
