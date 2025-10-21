@@ -1,40 +1,4 @@
 - year: 2025
-  month: 09
-  day: 04
-  time: 4:00 ET
-  presenter: Group Catchup
-  location: 34-401B (Grier Room B)
-- year: 2025
-  month: 09
-  day: 11
-  time: 4:00 ET
-  presenter: Teddy Koker; Emily Oliphant
-  location: 36-428 (Haus Room)
-- year: 2025
-  month: 09
-  day: 25
-  time: 4:00 ET
-  presenter: Nick Zolman; Marco Pacini
-  location: 36-428 (Haus Room)
-- year: 2025
-  month: 10
-  day: 02
-  time: 4:00 ET
-  presenter: Elyssa Hofgard; Adriana Ladera
-  location: 36-428 (Haus Room)
-- year: 2025
-  month: 10
-  day: 09
-  time: 4:00 ET
-  presenter: Yi-Lun Liao; Ryley McConkey
-  location: 36-428 (Haus Room)
-- year: 2025
-  month: 10
-  day: 16
-  time: 4:00 ET
-  presenter: Ameya Daigavane; YuQing Xie
-  location: 36-428 (Haus Room)
-- year: 2025
   month: 10
   day: 23
   time: 4:00 ET
@@ -56,29 +20,29 @@
   month: 11
   day: 13
   time: 4:00 ET
-  presenter: Teddy Koker; Emily Oliphant
+  presenter: Hannah Lawrence, Hannah Gold
   location: 36-428 (Haus Room)
 - year: 2025
   month: 11
   day: 20
   time: 4:00 ET
-  presenter: Ryley McConkey; Yi-Lun Liao
+  presenter: Group Catchup
   location: 36-428 (Haus Room)
 - year: 2025
   month: 12
   day: 04
   time: 4:00 ET
-  presenter: Elyssa Hofgard; Adriana Ladera
+  presenter: Teddy Koker; Emily Oliphant
   location: 36-428 (Haus Room)
 - year: 2025
   month: 12
   day: 11
   time: 4:00 ET
-  presenter: Group Catchup
+  presenter: Elyssa Hofgard; Adriana Ladera
   location: 36-428 (Haus Room)
 - year: 2025
   month: 12
   day: 18
   time: 4:00 ET
-  presenter: 
+  presenter: Ryley McConkey; Yi-Lun Liao
   location: 36-428 (Haus Room)
