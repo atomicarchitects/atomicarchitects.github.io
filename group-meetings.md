@@ -3,7 +3,7 @@ layout: default
 title: Group Meetings
 ---
 
-Our group meetings are Thursdays at 4-5 PM ET. The detailed schedule is below.
+Our group meetings are usually Thursdays at 3:30 PM to 5 PM ET. The detailed schedule is below.
 
 <table>
     <tr>
