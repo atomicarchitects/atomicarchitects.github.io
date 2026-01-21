@@ -40,9 +40,9 @@ title: Publications
             {% if pages == ":" %}
                 {% assign pages = "" %}
             {% endif %}
-            <p class="pub">({{pub.year}}) {{formattedAuthors}}. {{pub.title}}. <i>{{pub.journal}}</i>{{volume}}{{number}}{{pages}}.</p>
+            <p class="pub">({{pub.year}}) {{formattedAuthors}}. {% if pub.url %}<a href="{{pub.url}}">{{pub.title}}</a>{% else %}{{pub.title}}{% endif %}. <i>{{pub.journal}}</i>{{volume}}{{number}}{{pages}}.</p>
         {% elsif pub.institution %}
-            <p class="pub">({{pub.year}}) {{formattedAuthors}}. {{pub.title}}. <i>{{pub.institution}}</i>.</p>
+            <p class="pub">({{pub.year}}) {{formattedAuthors}}. {% if pub.url %}<a href="{{pub.url}}">{{pub.title}}</a>{% else %}{{pub.title}}{% endif %}. <i>{{pub.institution}}</i>.</p>
         {% endif %}
     {% endfor %}
 </div>
