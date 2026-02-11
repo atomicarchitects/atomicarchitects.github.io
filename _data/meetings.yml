@@ -1,22 +1,4 @@
 - year: 2026
-  month: 1
-  day: 15
-  time: 3:30 ET
-  presenter: Berthy Feng (guest)
-  location: 36-462 (Allen Room)
-- year: 2026
-  month: 1
-  day: 29
-  time: 3:30 ET
-  presenter: Ryley McConkey; Elyssa Hofgard
-  location: 36-462 (Allen Room)
-- year: 2026
-  month: 2
-  day: 5
-  time: 3:30 ET
-  presenter: Adriana Ladera; Yi-Lun Liao
-  location: 36-462 (Allen Room)
-- year: 2026
   month: 2
   day: 12
   time: 3:30 ET
@@ -28,4 +10,15 @@
   time: 3:30 ET
   presenter: Jigyasa Nigam; Giulianna Hashemi-Asasi
   location: 36-462 (Allen Room)
-
+- year: 2026
+  month: 2
+  day: 26
+  time: 3:30 ET
+  presenter: Mit Kotak; Julia Balla
+  location: 36-462 (Allen Room)
+- year: 2026
+  month: 3
+  day: 05
+  time: 3:30 ET
+  presenter: Hannah Lawrence, Hannah Gold
+  location: 36-462 (Allen Room)
