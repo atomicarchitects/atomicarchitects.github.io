@@ -1,24 +1,30 @@
 - year: 2026
   month: 2
-  day: 12
-  time: 3:30 ET
-  presenter: Ameya Daigavane; YuQing Xie
-  location: 36-462 (Allen Room)
-- year: 2026
-  month: 2
-  day: 19
-  time: 3:30 ET
-  presenter: Julia Balla; Giulianna Hashemi-Asasi
-  location: 36-462 (Allen Room)
-- year: 2026
-  month: 2
   day: 26
   time: 3:30 ET
-  presenter: Mit Kotak; Jigyasa Nigam
+  presenter: Mit Kotak
   location: 36-462 (Allen Room)
 - year: 2026
   month: 3
   day: 05
   time: 3:30 ET
-  presenter: Hannah Lawrence, Hannah Gold
+  presenter: Jigyasa Nigam; Hannah Gold
+  location: 36-462 (Allen Room)
+- year: 2026
+  month: 3
+  day: 12
+  time: 3:30 ET
+  presenter: Hannah Lawrence, Teddy Koker
+  location: 36-462 (Allen Room)
+- year: 2026
+  month: 3
+  day: 19
+  time: 3:30 ET
+  presenter: Emily Oliphant; Elyssa Hofgard
+  location: 36-462 (Allen Room)
+- year: 2026
+  month: 3
+  day: 26
+  time: 3:30 ET
+  presenter: Adriana Ladera; Ryley McConkey
   location: 36-462 (Allen Room)
