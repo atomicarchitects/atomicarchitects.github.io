@@ -20,13 +20,13 @@
   month: 3
   day: 26
   time: 3:30 ET
-  presenter: Hannah Lawrence; Teddy Koker
+  presenter: Hannah Lawrence; Ryley McConkey
   location: 36-462 (Allen Room)
 - year: 2026
   month: 4
   day: 2
   time: 3:30 ET
-  presenter: Ryley McConkey; Yi-Lun Liao
+  presenter: Teddy Koker; Yi-Lun Liao
   location: 36-462 (Allen Room)
 - year: 2026
   month: 4
@@ -45,5 +45,11 @@
   day: 23
   time: 3:30 ET
   presenter: Emily Oliphant; Adriana Ladera
+  location: 36-462 (Allen Room)
+- year: 2026
+  month: 4
+  day: 30
+  time: 3:30 ET
+  presenter: Arthur Liang
   location: 36-462 (Allen Room)
 
