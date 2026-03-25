@@ -1,17 +1,5 @@
 - year: 2026
   month: 3
-  day: 12
-  time: 3:30 ET
-  presenter: APS practice talks
-  location: 36-462 (Allen Room)
-- year: 2026
-  month: 3
-  day: 19
-  time: 
-  presenter: Cancelled (APS)
-  location: 
-- year: 2026
-  month: 3
   day: 26
   time: 
   presenter: Cancelled (Spring break)
@@ -20,30 +8,36 @@
   month: 4
   day: 2
   time: 3:30 ET
-  presenter: Hannah Lawrence; Ryley McConkey
+  presenter: Hannes Stark
   location: 36-462 (Allen Room)
 - year: 2026
   month: 4
   day: 9
   time: 3:30 ET
-  presenter: Teddy Koker; Yi-Lun Liao
+  presenter: Hannah Lawrence; Ryley McConkey
   location: 36-462 (Allen Room)
 - year: 2026
   month: 4
   day: 16
   time: 3:30 ET
-  presenter: Kyucheol Min; Jigyasa Nigam
+  presenter: Teddy Koker; Yi-Lun Liao
   location: 36-462 (Allen Room)
 - year: 2026
   month: 4
   day: 23
   time: 3:30 ET
-  presenter: Ameya Daigavane; Emily Oliphant
+  presenter: Kyucheol Min; Jigyasa Nigam
   location: 36-462 (Allen Room)
 - year: 2026
   month: 4
   day: 30
   time: 3:30 ET
-  presenter: Arthur Liang; Adriana Ladera
+  presenter: Arthur Liang; Emily Oliphant
+  location: 36-462 (Allen Room)
+- year: 2026
+  month: 5
+  day: 7
+  time: 3:30 ET
+  presenter: Ameya Daigavane; Adriana Ladera
   location: 36-462 (Allen Room)
 
