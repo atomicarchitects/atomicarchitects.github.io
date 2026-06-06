@@ -1,21 +1,42 @@
 
 - year: 2026
-  month: 4
+  month: 6
+  day: 11
+  time: 4 ET
+  presenter: Mit Kotak
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 6
+  day: 25
+  time: 4 ET
+  presenter: YuQing Xie
+  location: 36-462 (Allen Room)
+  
+- year: 2026
+  month: 7
+  day: 9
+  time: 4 ET
+  presenter: Giulianna Hashemi-Asasi
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 7
   day: 23
-  time: 3:30 ET
-  presenter: Yi-Lun Liao; Emily Oliphant
-  location: 36-462 (Allen Room)
-- year: 2026
-  month: 4
-  day: 30
-  time: 3:30 ET
-  presenter: Jigyasa Nigam; Teddy Koker
-  location: 36-462 (Allen Room)
-- year: 2026
-  month: 5
-  day: 14
-  time: 3:30 ET
-  presenter: Arthur Liang; Adriana Ladera
+  time: 4 ET
+  presenter: Ryley McConkey
   location: 36-462 (Allen Room)
 
+  - year: 2026
+  month: 8
+  day: 6
+  time: 4 ET
+  presenter: Emily Oliphant
+  location: 36-462 (Allen Room)
 
+  - year: 2026
+  month: 8
+  day: 20
+  time: 4 ET
+  presenter: Arthur Liang
+  location: 36-462 (Allen Room)
