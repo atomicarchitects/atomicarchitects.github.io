@@ -16,12 +16,6 @@
   position: Postdoc, Tayebati Fellow
   img_type: jpg
   bio: 
-- name: Jigyasa Nigam
-  email: jnigam WHERE mit DOT edu
-  website: http://curiosity54.github.io
-  position: Postdoc, SoE Engineering Excellence Fellow 
-  img_type: jpg
-  bio: 
 - name: Ryley McConkey
   email: rmcconke WHERE mit DOT edu
   website: https://ryleymcconkey.com/
@@ -82,39 +76,20 @@
   position: PhD Student
   img_type: jpg
   bio:
-- name: Max Aalto
-  email: maxaalto WHERE mit DOT edu
-  website:
-  position: PhD Student
-  img_type: jpg
-  bio:
 - name: Teddy Koker
   email: tekoker WHERE mit DOT edu
   website: https://teddykoker.com
   position: PhD Student
   img_type: jpg
-- name: Song Kim
-  email: songk WHERE mit DOT edu
-  website: https://www.linkedin.com/in/song-eun-kim/
-  position: MEng Student
-  img_type: jpg
-  bio: 
-- name: Tuong Phung
-  email: tphung WHERE mit DOT edu
-  website: 
-  position: MEng Student
-  img_type: jpg
-  bio: 
-- name: Christopher Kolloff
-  email: kolloff WHERE mit DOT edu
-  website: https://www.linkedin.com/in/christopher-kolloff-b8990a115/
-  position: Visiting Student Researcher
-  img_type: jpg
-  bio: Christopher is a Molecular Biologist turned Biophysicist turned Computational Scientist interested in studying protein dynamics from all angles imaginable. He is a Fulbright fellow doing a research stint in Tess' lab as part of his PhD program in Sweden, where he works with Simon Olsson.
 - name: Kyucheol Min
   email: mink202 WHERE mit DOT edu
   website:
   position: Undergraduate Researcher
   img_type: jpg
   bio:
-
+- name: Katelyn Zhou
+  email: 
+  website:
+  position: Undergraduate Researcher
+  img_type: jpg
+  bio:
