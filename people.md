@@ -8,11 +8,11 @@ title: People
     {% assign splitname = person.name | split: " " -%}
       <div style="width: 170px; height: 270px; display: grid; grid-template-rows: 170px 3em auto 1em; padding: 10px 15px;">
         <img src="assets/img/{{splitname | join: '_'}}.{{person.img_type}}" height="170px" style="width: auto;"/>
-        <h3 style="margin-bottom: 0;">
+        <h3 style="margin: 0;">
           <a href="{{person.website}}" title="{{person.bio}}">{{person.name}}</a>
         </h3>
-        <h3 style="margin-bottom: 0;">{{person.position}}</h3>
-        <h4 style="margin-bottom: 0;"><a href="mailto:{{person.email}}">Email</a></h4>
+        <h3 style="margin: 0;">{{person.position}}</h3>
+        <h4 style="margin: 0;"><a href="mailto:{{person.email}}">Email</a></h4>
       </div>
 {% endfor %}
 </div>
