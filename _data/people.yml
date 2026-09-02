@@ -52,12 +52,6 @@
   position: PhD Student
   img_type: jpg
   bio: I'm currently a first year EECS PhD student. I'm from Louisville, Colorado and I did my master's degree and undergrad at Stanford University. I'm excited to use machine learning to help us understand and design physical systems! In my free time, I like to ski, hike, read, and explore Boston!
-- name: Allan Costa
-  email: allanc WHERE mit DOT edu
-  website: 
-  position: PhD Student
-  img_type: jpg
-  bio: 
 - name: Mit Kotak
   email: mkotak WHERE mit DOT edu
   website: https://mitkotak.github.io
