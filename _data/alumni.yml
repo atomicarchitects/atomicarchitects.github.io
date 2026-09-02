@@ -48,3 +48,8 @@
   then: Undergraduate Research Assistant
   now: blank
   bio:
+- name: Tuong Phung
+  website: https://tuongphung.com
+  then: MEng Student
+  now: MIT EECS PhD Student
+  bio: Tuong is now an MIT EECS PhD student advised by Ericmoore Jossou. His research focuses on developing machine learning methods to accelerate the computational modeling and discovery of novel materials, with an emphasis on nuclear fission fuels. Previously, he worked on spectral representations of local atomic environments as part of the Atomic Architects.
