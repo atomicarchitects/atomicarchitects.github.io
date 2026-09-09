@@ -1,13 +1,83 @@
 - year: 2026
   month: 9
-  day: 3
-  time: 4 ET
-  presenter: Christof, Marc and Manuel
-  location: 36-647
+  day: 14
+  time: 9-10 AM ET
+  presenter: Sophie
+  location: 36-462 (Allen Room)
 
 - year: 2026
   month: 9
-  day: 15
-  time: 4 ET
+  day: 21
+  time: 9-10 AM ET
   presenter: Tess
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 9
+  day: 28
+  time: 9-10 AM ET
+  presenter: Karl-Johan
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 10
+  day: 5
+  time: 9-10 AM ET
+  presenter: Ameya
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 10
+  day: 19
+  time: 9-10 AM ET
+  presenter: Elyssa
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 10
+  day: 26
+  time: 9-10 AM ET
+  presenter: Adriana
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 11
+  day: 2
+  time: 9-10 AM ET
+  presenter: Teddy
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 11
+  day: 9
+  time: 9-10 AM ET
+  presenter: Mit
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 11
+  day: 16
+  time: 9-10 AM ET
+  presenter: YuQing
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 11
+  day: 23
+  time: 9-10 AM ET
+  presenter: Giulianna
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 11
+  day: 30
+  time: 9-10 AM ET
+  presenter: Ryley
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 12
+  day: 7
+  time: 9-10 AM ET
+  presenter: Emily
   location: 36-462 (Allen Room)
