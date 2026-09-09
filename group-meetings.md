@@ -3,7 +3,7 @@ layout: default
 title: Group Meetings
 ---
 
-Our group meetings are usually Thursdays at 4 PM to 5 PM ET. The detailed schedule is below.
+Our group meetings are usually on Mondays from 9 AM to 10 AM ET. The detailed schedule is below.
 
 <table>
     <tr>
@@ -14,7 +14,7 @@ Our group meetings are usually Thursdays at 4 PM to 5 PM ET. The detailed schedu
     </tr>
     {% assign meeting_count = 0 %}
     {% assign today = "now" | date: "%Y%m%d" %}
-    {% assign max_meetings = 8 %}
+    {% assign max_meetings = 20 %}
     {% for meeting in site.data.meetings %}
         {% assign meeting_month = meeting.month | prepend: '00' | slice: -2, 2 %}
         {% assign meeting_day = meeting.day | prepend: '00' | slice: -2, 2 %}
