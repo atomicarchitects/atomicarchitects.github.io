@@ -9,75 +9,96 @@
   month: 9
   day: 21
   time: 9-10 AM ET
-  presenter: Tess
-  location: 36-462 (Allen Room)
+  presenter: Nuclear Reactor Lab Tour
+  location: MIT Nuclear Reactor Laboratory
 
 - year: 2026
   month: 9
   day: 28
   time: 9-10 AM ET
-  presenter: Karl-Johan
+  presenter: Tess
   location: 36-462 (Allen Room)
 
 - year: 2026
   month: 10
   day: 5
   time: 9-10 AM ET
-  presenter: Ameya
+  presenter: Karl-Johan
   location: 36-462 (Allen Room)
 
 - year: 2026
   month: 10
   day: 19
   time: 9-10 AM ET
-  presenter: Elyssa
+  presenter: Ameya
   location: 36-462 (Allen Room)
 
 - year: 2026
   month: 10
   day: 26
   time: 9-10 AM ET
-  presenter: Adriana
+  presenter: Elyssa
   location: 36-462 (Allen Room)
 
 - year: 2026
   month: 11
   day: 2
   time: 9-10 AM ET
-  presenter: Teddy
+  presenter: Adriana
   location: 36-462 (Allen Room)
 
 - year: 2026
   month: 11
   day: 9
   time: 9-10 AM ET
-  presenter: Mit
+  presenter: Teddy
   location: 36-462 (Allen Room)
 
 - year: 2026
   month: 11
   day: 16
   time: 9-10 AM ET
-  presenter: YuQing
+  presenter: Mit
   location: 36-462 (Allen Room)
 
 - year: 2026
   month: 11
   day: 23
   time: 9-10 AM ET
-  presenter: Giulianna
+  presenter: YuQing
   location: 36-462 (Allen Room)
 
 - year: 2026
   month: 11
   day: 30
   time: 9-10 AM ET
-  presenter: Ryley
+  presenter: Katelyn
   location: 36-462 (Allen Room)
 
 - year: 2026
   month: 12
   day: 7
   time: 9-10 AM ET
+  presenter: Giulianna
+  location: 36-462 (Allen Room)
+
+- year: 2026
+  month: 12
+  day: 14
+  time: 9-10 AM ET
+  presenter: Ryley
+  location: 36-462 (Allen Room)
+
+- year: 2027
+  month: 1
+  day: 11
+  time: 9-10 AM ET
   presenter: Emily
+  location: 36-462 (Allen Room)
+
+- year: 2027
+  month: 1
+  day: 25
+  time: 9-10 AM ET
+  presenter: Kyucheol
   location: 36-462 (Allen Room)
