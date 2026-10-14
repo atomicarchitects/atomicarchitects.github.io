@@ -44,7 +44,7 @@
   month: 11
   day: 2
   time: 9-10 AM ET
-  presenter: Adriana
+  presenter: YuQing
   location: 36-462 (Allen Room)
 
 - year: 2026
@@ -65,7 +65,7 @@
   month: 11
   day: 23
   time: 9-10 AM ET
-  presenter: YuQing
+  presenter: Adriana
   location: 36-462 (Allen Room)
 
 - year: 2026
@@ -79,7 +79,7 @@
   month: 12
   day: 7
   time: 9-10 AM ET
-  presenter: Giulianna
+  presenter: Kyucheol
   location: 36-462 (Allen Room)
 
 - year: 2026
@@ -100,5 +100,5 @@
   month: 1
   day: 25
   time: 9-10 AM ET
-  presenter: Kyucheol
+  presenter: Giulianna
   location: 36-462 (Allen Room)
