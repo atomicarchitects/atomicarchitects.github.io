@@ -1,36 +1,15 @@
 - year: 2026
   month: 11
-  day: 9
-  time: 9-10 AM ET
-  presenter: Mit
-  location: 36-462 (Allen Room)
-
-- year: 2026
-  month: 11
-  day: 16
-  time: 9-10 AM ET
-  presenter: Teddy
-  location: 36-462 (Allen Room)
-
-- year: 2026
-  month: 11
-  day: 23
-  time: 9-10 AM ET
-  presenter: Adriana
-  location: 36-462 (Allen Room)
-
-- year: 2026
-  month: 11
   day: 30
   time: 9-10 AM ET
-  presenter: Katelyn
+  presenter: Emily
   location: 36-462 (Allen Room)
 
 - year: 2026
   month: 12
   day: 7
   time: 9-10 AM ET
-  presenter: Kyucheol
+  presenter: Katelyn
   location: 36-462 (Allen Room)
 
 - year: 2026
@@ -44,7 +23,7 @@
   month: 1
   day: 11
   time: 9-10 AM ET
-  presenter: Emily
+  presenter: Kyucheol
   location: 36-462 (Allen Room)
 
 - year: 2027
